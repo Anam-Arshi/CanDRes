@@ -1,0 +1,624 @@
+{
+    "ADE17": {
+        "C. auris": [
+            "5-Flucytosine"
+        ]
+    },
+    "AUS1": {
+        "C. glabrata": [
+            "All",
+            "Voriconazole",
+            "Fluconazole"
+        ]
+    },
+    "CAGL0L04400g": {
+        "C. glabrata": [
+            "All",
+            "Voriconazole",
+            "Fluconazole"
+        ]
+    },
+    "CAGL0L09383g": {
+        "C. glabrata": [
+            "All",
+            "Voriconazole",
+            "Fluconazole"
+        ]
+    },
+    "CAP1": {
+        "C. albicans": [
+            "All",
+            "Voriconazole",
+            "Itraconazole",
+            "Fluconazole"
+        ]
+    },
+    "CDR1": {
+        "C. albicans": [
+            "All",
+            "Itraconazole",
+            "Ketoconazole",
+            "Fluconazole"
+        ],
+        "C. auris": [
+            "All",
+            "Isavuconazole",
+            "Posaconazole",
+            "Fluconazole",
+            "Voriconazole"
+        ],
+        "C. glabrata": [
+            "All",
+            "Posaconazole",
+            "Itraconazole",
+            "Fluconazole",
+            "Voriconazole"
+        ],
+        "C. parapsilosis": [
+            "All",
+            "Voriconazole",
+            "Fluconazole"
+        ]
+    },
+    "CDR2": {
+        "C. albicans": [
+            "Nystatin"
+        ]
+    },
+    "CIS2": {
+        "C. auris": [
+            "All",
+            "Micafungin",
+            "Caspofungin",
+            "Anidulafungin"
+        ]
+    },
+    "ERG1": {
+        "C. glabrata": [
+            "All",
+            "Voriconazole",
+            "Amphotericin B",
+            "Fluconazole"
+        ],
+        "C. tropicalis": [
+            "All",
+            "Posaconazole",
+            "Itraconazole",
+            "Fluconazole",
+            "Voriconazole"
+        ]
+    },
+    "ERG11": {
+        "C. albicans": [
+            "All",
+            "Voriconazole",
+            "Isavuconazole",
+            "Itraconazole",
+            "Posaconazole",
+            "Fluconazole",
+            "Ravuconazole",
+            "Micafungin",
+            "Ketoconazole",
+            "Clotrimazole"
+        ],
+        "C. auris": [
+            "All",
+            "Caspofungin",
+            "Voriconazole",
+            "Isavuconazole",
+            "Posaconazole",
+            "Itraconazole",
+            "Fluconazole",
+            "Azole"
+        ],
+        "C. catenulata": [
+            "Fluconazole"
+        ],
+        "C. dubliniensis": [
+            "All",
+            "Itraconazole",
+            "Ketoconazole",
+            "Fluconazole"
+        ],
+        "C. glabrata": [
+            "All",
+            "Caspofungin",
+            "Voriconazole",
+            "Isavuconazole",
+            "Itraconazole",
+            "Posaconazole",
+            "Fluconazole",
+            "Anidulafungin"
+        ],
+        "C. haemulonii": [
+            "Fluconazole"
+        ],
+        "C. kefyr": [
+            "All",
+            "Voriconazole",
+            "Fluconazole"
+        ],
+        "C. krusei": [
+            "All",
+            "Posaconazole",
+            "Voriconazole"
+        ],
+        "C. lusitaniae": [
+            "Fluconazole"
+        ],
+        "C. orthopsilosis": [
+            "All",
+            "Posaconazole",
+            "Itraconazole",
+            "Fluconazole",
+            "Voriconazole"
+        ],
+        "C. parapsilosis": [
+            "All",
+            "Voriconazole",
+            "Itraconazole",
+            "Posaconazole",
+            "Fluconazole"
+        ],
+        "C. tropicalis": [
+            "All",
+            "Voriconazole",
+            "Posaconazole",
+            "Itraconazole",
+            "Fluconazole",
+            "Ketoconazole",
+            "Clotrimazole"
+        ]
+    },
+    "ERG2": {
+        "C. albicans": [
+            "Amphotericin B"
+        ],
+        "C. glabrata": [
+            "Amphotericin B"
+        ],
+        "C. kefyr": [
+            "Amphotericin B"
+        ]
+    },
+    "ERG3": {
+        "C. albicans": [
+            "All",
+            "Voriconazole",
+            "Posaconazole",
+            "Itraconazole",
+            "Isavuconazole",
+            "Fluconazole",
+            "Amphotericin B",
+            "Ketoconazole",
+            "Clotrimazole",
+            "Azole"
+        ],
+        "C. auris": [
+            "All",
+            "Amphotericin B",
+            "Fluconazole"
+        ],
+        "C. dubliniensis": [
+            "All",
+            "Itraconazole",
+            "Ketoconazole",
+            "Fluconazole"
+        ],
+        "C. glabrata": [
+            "All",
+            "Voriconazole",
+            "Posaconazole",
+            "Itraconazole",
+            "Fluconazole",
+            "Amphotericin B"
+        ],
+        "C. kefyr": [
+            "All",
+            "Voriconazole",
+            "Amphotericin B",
+            "Fluconazole"
+        ],
+        "C. lusitaniae": [
+            "All",
+            "Voriconazole",
+            "Amphotericin B",
+            "Fluconazole"
+        ],
+        "C. parapsilosis": [
+            "All",
+            "Posaconazole",
+            "Itraconazole",
+            "Fluconazole",
+            "Voriconazole"
+        ],
+        "C. tropicalis": [
+            "All",
+            "Voriconazole",
+            "Posaconazole",
+            "Itraconazole",
+            "Fluconazole",
+            "Ketoconazole",
+            "Amphotericin B"
+        ]
+    },
+    "ERG4": {
+        "C. auris": [
+            "Fluconazole"
+        ],
+        "C. glabrata": [
+            "Fluconazole"
+        ]
+    },
+    "ERG5": {
+        "C. albicans": [
+            "All",
+            "Voriconazole",
+            "Itraconazole",
+            "Fluconazole",
+            "Ketoconazole",
+            "Amphotericin B",
+            "Clotrimazole"
+        ],
+        "C. auris": [
+            "All",
+            "Amphotericin B",
+            "Fluconazole"
+        ]
+    },
+    "ERG6": {
+        "C. albicans": [
+            "Amphotericin B"
+        ],
+        "C. glabrata": [
+            "All",
+            "Voriconazole",
+            "Isavuconazole",
+            "Itraconazole",
+            "Fluconazole",
+            "Amphotericin B"
+        ],
+        "C. kefyr": [
+            "All",
+            "Voriconazole",
+            "Amphotericin B",
+            "Fluconazole"
+        ]
+    },
+    "ERG9": {
+        "C. glabrata": [
+            "All",
+            "Posaconazole",
+            "Itraconazole",
+            "Fluconazole",
+            "Voriconazole"
+        ]
+    },
+    "FCY1": {
+        "C. albicans": [
+            "5-Flucytosine"
+        ],
+        "C. auris": [
+            "5-Flucytosine"
+        ],
+        "C. glabrata": [
+            "5-Flucytosine"
+        ]
+    },
+    "FCY2": {
+        "C. auris": [
+            "5-Flucytosine"
+        ],
+        "C. glabrata": [
+            "5-Flucytosine"
+        ]
+    },
+    "FKS1": {
+        "C. albicans": [
+            "All",
+            "Caspofungin",
+            "Rezafungin (CD101)",
+            "Rezafungin",
+            "Echinocandin",
+            "Fluconazole",
+            "Anidulafungin",
+            "Micafungin",
+            "Ibrexafungerp (SCY-078)",
+            "Ibrexafungerp (Ibrexafungerp (SCY-078))",
+            "Antifungal",
+            "Ibrexafungerp (MK-3118)"
+        ],
+        "C. auris": [
+            "All",
+            "Caspofungin",
+            "Rezafungin",
+            "Echinocandin",
+            "Anidulafungin",
+            "Micafungin"
+        ],
+        "C. dubliniensis": [
+            "All",
+            "Caspofungin",
+            "Rezafungin",
+            "Echinocandin",
+            "Anidulafungin",
+            "Micafungin"
+        ],
+        "C. glabrata": [
+            "All",
+            "",
+            "Caspofungin",
+            "Rezafungin",
+            "Rezafungin (CD101)",
+            "Echinocandin",
+            "Fluconazole",
+            "Anidulafungin",
+            "Micafungin",
+            "Ibrexafungerp (Ibrexafungerp (SCY-078))",
+            "Ibrexafungerp (MK-3118)"
+        ],
+        "C. haemulonii": [
+            "All",
+            "Micafungin",
+            "Caspofungin",
+            "Anidulafungin"
+        ],
+        "C. kefyr": [
+            "All",
+            "Micafungin",
+            "Caspofungin",
+            "Anidulafungin"
+        ],
+        "C. krusei": [
+            "All",
+            "Caspofungin",
+            "Rezafungin (CD101)",
+            "Rezafungin",
+            "Echinocandin",
+            "Anidulafungin",
+            "Micafungin"
+        ],
+        "C. lusitaniae": [
+            "All",
+            "Micafungin",
+            "Caspofungin",
+            "Anidulafungin"
+        ],
+        "C. metapsilosis": [
+            "All",
+            "Micafungin",
+            "Caspofungin",
+            "Anidulafungin"
+        ],
+        "C. orthopsilosis": [
+            "All",
+            "Micafungin",
+            "Caspofungin",
+            "Anidulafungin"
+        ],
+        "C. parapsilosis": [
+            "All",
+            "Caspofungin",
+            "Rezafungin",
+            "Echinocandin",
+            "Anidulafungin",
+            "Micafungin"
+        ],
+        "C. tropicalis": [
+            "All",
+            "Caspofungin",
+            "Rezafungin",
+            "Rezafungin (CD101)",
+            "Anidulafungin",
+            "Micafungin",
+            "Ibrexafungerp (Ibrexafungerp (SCY-078))"
+        ]
+    },
+    "FKS2": {
+        "C. glabrata": [
+            "All",
+            "Caspofungin",
+            "Rezafungin",
+            "Rezafungin (CD101)",
+            "Ibrexafungerp",
+            "Echinocandin",
+            "Fluconazole",
+            "Anidulafungin",
+            "Micafungin",
+            "Ibrexafungerp (SCY-078)",
+            "Ibrexafungerp (Ibrexafungerp (SCY-078))",
+            "Anidulafungi",
+            "Ibrexafungerp (MK-3118)"
+        ]
+    },
+    "FKS3": {
+        "C. glabrata": [
+            "Caspofungin"
+        ]
+    },
+    "FLR1": {
+        "C. glabrata": [
+            "All",
+            "Posaconazole",
+            "Itraconazole",
+            "Fluconazole",
+            "Voriconazole"
+        ]
+    },
+    "FUR1": {
+        "C. albicans": [
+            "5-Flucytosine"
+        ],
+        "C. auris": [
+            "5-Flucytosine"
+        ],
+        "C. glabrata": [
+            "5-Flucytosine"
+        ]
+    },
+    "GAL11A": {
+        "C. glabrata": [
+            "All",
+            "Voriconazole",
+            "Fluconazole"
+        ]
+    },
+    "GAL11B": {
+        "C. glabrata": [
+            "All",
+            "Voriconazole",
+            "Fluconazole"
+        ]
+    },
+    "GSC1": {
+        "C. albicans": [
+            "All",
+            "Micafungin",
+            "Caspofungin",
+            "Anidulafungin"
+        ]
+    },
+    "MDR1": {
+        "C. parapsilosis": [
+            "All",
+            "Voriconazole",
+            "Fluconazole"
+        ],
+        "C. tropicalis": [
+            "All",
+            "Voriconazole",
+            "Fluconazole"
+        ]
+    },
+    "MRR1": {
+        "C. albicans": [
+            "All",
+            "Voriconazole",
+            "Itraconazole",
+            "Fluconazole"
+        ],
+        "C. auris": [
+            "All",
+            "Voriconazole",
+            "Itraconazole",
+            "Fluconazole"
+        ],
+        "C. dubliniensis": [
+            "Fluconazole"
+        ],
+        "C. lusitaniae": [
+            "Fluconazole"
+        ],
+        "C. parapsilosis": [
+            "All",
+            "Voriconazole",
+            "Itraconazole",
+            "Posaconazole",
+            "Fluconazole"
+        ],
+        "C. tropicalis": [
+            "All",
+            "Voriconazole",
+            "Fluconazole"
+        ]
+    },
+    "MSH2": {
+        "C. glabrata": [
+            "All",
+            "Caspofungin",
+            "Voriconazole",
+            "Echinocandin",
+            "Posaconazole",
+            "Itraconazole",
+            "Fluconazole",
+            "Anidulafungin",
+            "Micafungin",
+            "Multidrug"
+        ]
+    },
+    "PDH1": {
+        "C. glabrata": [
+            "All",
+            "Voriconazole",
+            "Fluconazole"
+        ]
+    },
+    "PDR1": {
+        "C. glabrata": [
+            "All",
+            "Voriconazole",
+            "Isavuconazole",
+            "Posaconazole",
+            "Itraconazole",
+            "Fluconazole",
+            "Ketoconazole",
+            "Prochloraz",
+            "Clotrimazole"
+        ]
+    },
+    "SNQ2": {
+        "C. auris": [
+            "Fluconazole"
+        ],
+        "C. glabrata": [
+            "Voriconazole"
+        ]
+    },
+    "TAC1": {
+        "C. albicans": [
+            "All",
+            "Voriconazole",
+            "Isavuconazole",
+            "Itraconazole",
+            "Posaconazole",
+            "Fluconazole"
+        ],
+        "C. auris": [
+            "Fluconazole"
+        ],
+        "C. parapsilosis": [
+            "All",
+            "Voriconazole",
+            "Fluconazole"
+        ],
+        "C. tropicalis": [
+            "All",
+            "Voriconazole",
+            "Itraconazole",
+            "Fluconazole"
+        ]
+    },
+    "TAC1B": {
+        "C. auris": [
+            "Fluconazole"
+        ]
+    },
+    "UPC2": {
+        "C. albicans": [
+            "All",
+            "Posaconazole",
+            "Itraconazole",
+            "Fluconazole",
+            "Voriconazole"
+        ],
+        "C. parapsilosis": [
+            "All",
+            "Voriconazole",
+            "Fluconazole"
+        ],
+        "C. tropicalis": [
+            "All",
+            "Posaconazole",
+            "Itraconazole",
+            "Fluconazole",
+            "Voriconazole"
+        ]
+    },
+    "UPC2A": {
+        "C. glabrata": [
+            "All",
+            "Voriconazole",
+            "Fluconazole"
+        ]
+    }
+}

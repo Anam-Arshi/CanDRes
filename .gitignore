@@ -1,0 +1,15 @@
+# Ignore large database files
+*.db
+/R_plots/
+/structures/
+/model_structures/
+/junk/
+*.zip
+*.xlsx
+*.csv
+*.sql
+*.pdf
+*.html
+*.docx
+*.tiff
+connect.php
