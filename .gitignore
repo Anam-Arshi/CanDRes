@@ -2,7 +2,7 @@
 *.db
 /R_plots/
 /structures/
-/model_structures/
+/model_structure/
 /junk/
 *.zip
 *.xlsx
